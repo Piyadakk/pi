@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\piyada.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\piyada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\piyada.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\piyada.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\piyada.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\piyada\bin\Debug\net6.0\piyada.exe
+C:\Users\lenovo\Desktop\piyada\bin\Debug\net6.0\piyada.deps.json
+C:\Users\lenovo\Desktop\piyada\bin\Debug\net6.0\piyada.runtimeconfig.json
+C:\Users\lenovo\Desktop\piyada\bin\Debug\net6.0\piyada.dll
+C:\Users\lenovo\Desktop\piyada\bin\Debug\net6.0\piyada.pdb
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\piyada.dll
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\refint\piyada.dll
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\piyada.pdb
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\piyada.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\piyada\obj\Debug\net6.0\ref\piyada.dll
